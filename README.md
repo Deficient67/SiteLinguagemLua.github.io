@@ -1,21 +1,5 @@
 <!doctype html>
 <html lang="pt-BR">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mundo Roblox — Tutorial de Lua</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
-  <style>
-    body{font-family:Inter,system-ui; background:linear-gradient(135deg,#43e97b,#38f9d7); margin:0; color:#0f172a;}
-    header{background:linear-gradient(135deg,#ff5f6d,#ffc371); color:#0f172a; text-align:center; padding:40px 20px;}
-    main{max-width:1100px; margin:auto; background:white; padding:40px 20px; border-radius:16px; box-shadow:0 4px 20px rgba(0,0,0,0.1);}
-    h1,h2,h3{color:#0f172a}
-    code{background:#082c50; padding:4px 8px; border-radius:6px;}
-    pre{background:#0f172a; color:#fff; padding:14px; border-radius:12px; overflow-x:auto;}
-    section{margin-bottom:40px;}
-    footer{text-align:center; padding:20px; color:#334155;}
-  </style>
-</head>
 <body>
   <header>
     <h1>Guia Completo da Linguagem Lua no Roblox</h1>
